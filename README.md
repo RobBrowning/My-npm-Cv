@@ -10,4 +10,4 @@ npm i npm-package-cv
 ## Running
 Open cmd > install package > once complete type in ```npm-package-cv``` and this should run the application.
 
-![cmd](https://github.com/RobBrowning/CypressIO/blob/master/Images/cmd.PNG)
+![cmd](https://github.com/RobBrowning/My-npm-Cv/blob/master/Images/cmd.PNG)
