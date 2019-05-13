@@ -5,3 +5,8 @@
 ## Download
 
 npm i npm-package-cv
+
+## Running
+
+Open cmd > install package > once complete type in ```npm-package-cv``` and this should run the application.
+
