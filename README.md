@@ -11,3 +11,5 @@ npm i npm-package-cv
 Open cmd > install package > once complete type in ```npm-package-cv``` and this should run the application.
 
 ![cmd](https://github.com/RobBrowning/My-npm-Cv/blob/master/Images/cmd.PNG)
+
+![tech](https://github.com/RobBrowning/My-npm-Cv/blob/master/Images/techStack.PNG)
