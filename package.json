@@ -1,0 +1,21 @@
+{
+  "name": "npm-package-cv",
+  "version": "1.0.0",
+  "description": "Rob Browning CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "CV"
+  },
+  "keywords": [
+    "CV"
+  ],
+  "author": "Rob Browning",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.3.1"
+  },
+  "bin": {
+    "npm-package-cv": "./index.js"
+    }
+}
