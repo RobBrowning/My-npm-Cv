@@ -7,3 +7,5 @@ If it is a patch(very small change). You run - npm version patch
 If you have done a considerable change. You run - npm version minor
 
 For a major change. You run - npm version major
+
+After that just hit - npm publish
