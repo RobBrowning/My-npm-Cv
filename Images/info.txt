@@ -1,0 +1,9 @@
+https://blog.usejournal.com/how-to-make-your-r%C3%A9sum%C3%A9-an-npm-package-fc5d6b6a3fbd
+
+To publish - npm publish --access=public
+
+If it is a patch(very small change). You run - npm version patch
+
+If you have done a considerable change. You run - npm version minor
+
+For a major change. You run - npm version major
